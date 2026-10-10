@@ -1,6 +1,6 @@
-# 🌾 Krishisetu Seeds — Website
+# 🌾 Krishisetu Agro — Website
 
-A modern, fully responsive multi-page website for **Krishisetu Seeds Pvt. Ltd.** built with pure HTML, CSS and vanilla JavaScript.
+A modern, fully responsive multi-page website for **Krishisetu Agro Pvt. Ltd.** built with pure HTML, CSS and vanilla JavaScript.
 
 ---
 
@@ -113,7 +113,7 @@ to:
 
 ## 📞 Contact
 
-**Krishisetu Seeds Pvt. Ltd.**
+**Krishisetu Agro Pvt. Ltd.**
 📞 +91 91091 02484
 ✉️ info@krishisetuagro.in
 🌐 www.krishisetuagro.in

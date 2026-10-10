@@ -1,5 +1,5 @@
 /* =========================================================
-   KRISHISETU SEEDS  —  Interactivity
+   KRISHISETU AGRO  —  Interactivity
    ========================================================= */
 
 document.addEventListener('DOMContentLoaded', () => {
